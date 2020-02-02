@@ -7,6 +7,7 @@
 #include <linux/errno.h>
 #include <asm/atomic.h>
 #include <asm/uaccess.h>
+#include <linux/uaccess.h>
 
 #include "main.h"
 #include "fops.h"
